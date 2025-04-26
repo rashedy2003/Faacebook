@@ -1,0 +1,15 @@
+flutter_native_splash:
+
+  color: "FFFFFF"
+  image: assets/images/face4X.png
+  branding: assets/images/Group 22.png
+  branding_bottom_padding: 24
+
+
+
+  android_12:
+    color: "FFFFFF"
+    image: assets/images/FACEBOOK12.png
+    branding: assets/images/Group 22.png
+    branding_bottom_padding: 24
+
